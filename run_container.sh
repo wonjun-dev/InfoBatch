@@ -1,0 +1,1 @@
+docker run -it -d -v ~/info_batch:/sources -v ~/info_batch/dataset/:/sources/dataset --ipc=host --gpus=all --name info_batch pytorch/pytorch:2.0.0-cuda11.7-cudnn8-devel
