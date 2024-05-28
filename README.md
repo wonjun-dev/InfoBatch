@@ -1,5 +1,5 @@
 # Summary
-This repository is easy code for [InfoBatch: Lossless Training Speed Up by Unbiased Dynamic Data Pruning, ICML 2024](https://arxiv.org/abs/2303.04947)
+This repository is easy code for [InfoBatch: Lossless Training Speed Up by Unbiased Dynamic Data Pruning, ICML 2024](https://arxiv.org/abs/2303.04947)\
 It is based on the Docker image `pytorch/pytorch:2.0.0-cuda11.7-cudnn8-devel`.\
 After installing the Docker image, you can reproduce the experiment by running the container using `run_container.sh`.
 
